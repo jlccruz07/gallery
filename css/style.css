@@ -26,7 +26,7 @@ body {
   color: #05a081;
   font-family: "Pacifico", cursive;
   font-size: 50px;
-  background-color: rgba(250, 244, 244, 0.5);
+  background-color: rgb(250, 244, 244);
   border: 20px solid #bdc3c7;
 }
 
